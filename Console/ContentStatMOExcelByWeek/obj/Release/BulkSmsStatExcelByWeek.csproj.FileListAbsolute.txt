@@ -1,0 +1,8 @@
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByWeek\bin\Release\BulkSmsStatExcelByWeek.exe.config
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByWeek\bin\Release\BulkSmsStatExcelByWeek.exe
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByWeek\bin\Release\BulkSmsStatExcelByWeek.pdb
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByWeek\bin\Release\EPPlus.dll
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByWeek\obj\Release\BulkSmsStatExcelByWeek.csproj.CoreCompileInputs.cache
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByWeek\obj\Release\BulkSmsStatExcelByWeek.csproj.CopyComplete
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByWeek\obj\Release\BulkSmsStatExcelByWeek.exe
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByWeek\obj\Release\BulkSmsStatExcelByWeek.pdb

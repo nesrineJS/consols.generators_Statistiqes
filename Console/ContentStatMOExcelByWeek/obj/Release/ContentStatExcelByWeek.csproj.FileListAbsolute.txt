@@ -1,0 +1,10 @@
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatExcelByWeek\bin\Release\ContentStatExcelByWeek.exe.config
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatExcelByWeek\bin\Release\ContentStatExcelByWeek.exe
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatExcelByWeek\bin\Release\ContentStatExcelByWeek.pdb
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatExcelByWeek\bin\Release\EPPlus.dll
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatExcelByWeek\bin\Release\Npgsql.dll
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatExcelByWeek\bin\Release\Npgsql.xml
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatExcelByWeek\obj\Release\ContentStatExcelByWeek.csproj.CoreCompileInputs.cache
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatExcelByWeek\obj\Release\ContentStatExcelByWeek.csproj.CopyComplete
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatExcelByWeek\obj\Release\ContentStatExcelByWeek.exe
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatExcelByWeek\obj\Release\ContentStatExcelByWeek.pdb

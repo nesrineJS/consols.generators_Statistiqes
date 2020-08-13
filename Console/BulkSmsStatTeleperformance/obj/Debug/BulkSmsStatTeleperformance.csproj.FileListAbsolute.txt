@@ -1,0 +1,8 @@
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatTeleperformance\bin\Debug\BulkSmsStatTeleperformance.exe.config
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatTeleperformance\bin\Debug\BulkSmsStatTeleperformance.exe
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatTeleperformance\bin\Debug\BulkSmsStatTeleperformance.pdb
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatTeleperformance\bin\Debug\Npgsql.dll
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatTeleperformance\bin\Debug\Npgsql.xml
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatTeleperformance\obj\Debug\BulkSmsStatTeleperformance.csproj.CoreCompileInputs.cache
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatTeleperformance\obj\Debug\BulkSmsStatTeleperformance.exe
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatTeleperformance\obj\Debug\BulkSmsStatTeleperformance.pdb

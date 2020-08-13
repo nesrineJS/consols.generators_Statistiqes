@@ -1,0 +1,9 @@
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByResellerGle\bin\Debug\BulkSmsStatExcelByWeekWithParam.exe.config
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByResellerGle\bin\Debug\BulkSmsStatExcelByWeekWithParam.exe
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByResellerGle\bin\Debug\BulkSmsStatExcelByWeekWithParam.pdb
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByResellerGle\bin\Debug\EPPlus.dll
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByResellerGle\obj\Debug\BulkSmsStatExcelByResellerGle.csprojAssemblyReference.cache
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByResellerGle\obj\Debug\BulkSmsStatExcelByResellerGle.csproj.CoreCompileInputs.cache
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByResellerGle\obj\Debug\BulkSmsStatExcelByResellerGle.csproj.CopyComplete
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByResellerGle\obj\Debug\BulkSmsStatExcelByWeekWithParam.exe
+D:\Project\Dotnet\2019\ExportExel2019\BulkSmsStatExcelByResellerGle\obj\Debug\BulkSmsStatExcelByWeekWithParam.pdb

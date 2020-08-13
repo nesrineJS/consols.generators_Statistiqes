@@ -1,0 +1,8 @@
+D:\Project2019\Dotnet\Statistique\Console\ContentStatCsv\bin\Release\ContentStatCsv.exe.config
+D:\Project2019\Dotnet\Statistique\Console\ContentStatCsv\bin\Release\ContentStatCsv.exe
+D:\Project2019\Dotnet\Statistique\Console\ContentStatCsv\bin\Release\ContentStatCsv.pdb
+D:\Project2019\Dotnet\Statistique\Console\ContentStatCsv\bin\Release\Npgsql.dll
+D:\Project2019\Dotnet\Statistique\Console\ContentStatCsv\bin\Release\Npgsql.xml
+D:\Project2019\Dotnet\Statistique\Console\ContentStatCsv\obj\Release\ContentStatCsv.csproj.CoreCompileInputs.cache
+D:\Project2019\Dotnet\Statistique\Console\ContentStatCsv\obj\Release\ContentStatCsv.exe
+D:\Project2019\Dotnet\Statistique\Console\ContentStatCsv\obj\Release\ContentStatCsv.pdb

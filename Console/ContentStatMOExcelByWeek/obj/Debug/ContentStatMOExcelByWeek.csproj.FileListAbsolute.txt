@@ -1,0 +1,8 @@
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatMOExcelByWeek\obj\Debug\ContentStatMOExcelByWeek.csprojResolveAssemblyReference.cache
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatMOExcelByWeek\bin\Debug\ContentStatMOExcelByWeek.exe.config
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatMOExcelByWeek\bin\Debug\ContentStatMOExcelByWeek.exe
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatMOExcelByWeek\bin\Debug\ContentStatMOExcelByWeek.pdb
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatMOExcelByWeek\bin\Debug\Npgsql.dll
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatMOExcelByWeek\bin\Debug\Npgsql.xml
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatMOExcelByWeek\obj\Debug\ContentStatMOExcelByWeek.exe
+D:\Project\Dotnet\2019\ExportExel2019\ContentStatMOExcelByWeek\obj\Debug\ContentStatMOExcelByWeek.pdb

@@ -1,0 +1,8 @@
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatExcelByReseller\bin\Debug\BulkSmsStatExcelByWeekWithParam.exe.config
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatExcelByReseller\bin\Debug\BulkSmsStatExcelByWeekWithParam.exe
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatExcelByReseller\bin\Debug\BulkSmsStatExcelByWeekWithParam.pdb
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatExcelByReseller\bin\Debug\Npgsql.dll
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatExcelByReseller\bin\Debug\Npgsql.xml
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatExcelByReseller\obj\Debug\BulkSmsStatExcelByReseller.csproj.CoreCompileInputs.cache
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatExcelByReseller\obj\Debug\BulkSmsStatExcelByWeekWithParam.exe
+D:\Project2019\Dotnet\Statistique\Console\BulkSmsStatExcelByReseller\obj\Debug\BulkSmsStatExcelByWeekWithParam.pdb
